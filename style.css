@@ -130,7 +130,8 @@ header a:hover{
 
 #boxes{
     margin-top: 20px;
-    width: 80%
+    width: 90%;
+        align-content: center;
    
     
 }
@@ -145,7 +146,7 @@ header a:hover{
 }
 
 #boxes .box img{
-    width: 80%;
+    width: 90%;
     align-items: center;
 }
 
